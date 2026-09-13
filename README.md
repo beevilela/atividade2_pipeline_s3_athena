@@ -285,24 +285,6 @@ Elas permitem identificar:
 - A camada correspondente;
 - O tamanho do arquivo processado.
 
-Evidências de execução
-
-Validação de Data Quality
-
-"Validação de Data Quality" (evidencias/athena_data_quality.png)
-
-Conciliação de integridade
-
-"Conciliação de integridade" (evidencias/athena_conciliacao.png)
-
-Auditoria de metadados
-
-"Auditoria de metadados" (evidencias/athena_metadados.png)
-
-Resultado analítico da Gold
-
-"Resultado da camada Gold" (evidencias/athena_gold.png)
-
 Instruções de execução
 
 1. Clone o repositório;
