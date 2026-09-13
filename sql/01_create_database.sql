@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS atividade2_pipeline;

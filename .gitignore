@@ -1,0 +1,17 @@
+# Credenciais
+.env
+.aws/
+credentials*
+
+# Temporários do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Resultados gerados pelo Athena
+athena-results/*
+!athena-results/.gitkeep
+
+# Arquivos locais temporários
+*.tmp
+*.log
