@@ -1,0 +1,121 @@
+product_id,nm_produto,categoria,preco
+PR0001,Produto 0001,Eletronicos,4060.16
+PR0002,Produto 0002,Livros,128.35
+PR0003,Produto 0003,Esporte e Lazer,1426.13
+PR0004,Produto 0004,Moveis,2705.7
+PR0005,Produto 0005,Moveis,2265.35
+PR0006,Produto 0006,Livros,147.32
+PR0007,Produto 0007,Eletronicos,3421.36
+PR0008,Produto 0008,Esporte e Lazer,780.76
+PR0009,Produto 0009,Informatica,187.14
+PR0010,Produto 0010,Eletronicos,2704.8
+PR0011,Produto 0011,Casa e Decoracao,337.59
+PR0012,Produto 0012,Beleza e Saude,335.69
+PR0013,Produto 0013,Esporte e Lazer,2137.91
+PR0014,Produto 0014,Livros,73.81
+PR0015,Produto 0015,Esporte e Lazer,174.01
+PR0016,Produto 0016,Livros,84.72
+PR0017,Produto 0017,Casa e Decoracao,454.52
+PR0018,Produto 0018,Informatica,2995.53
+PR0019,Produto 0019,Livros,148.12
+PR0020,Produto 0020,Moveis,2769.58
+PR0021,Produto 0021,Casa e Decoracao,1003.18
+PR0022,Produto 0022,Eletrodomesticos,2091.3
+PR0023,Produto 0023,Informatica,3672.39
+PR0024,Produto 0024,Beleza e Saude,146.07
+PR0025,Produto 0025,Livros,25.22
+PR0026,Produto 0026,Esporte e Lazer,252.42
+PR0027,Produto 0027,Moveis,2561.57
+PR0028,Produto 0028,Livros,126.23
+PR0029,Produto 0029,Casa e Decoracao,258.68
+PR0030,Produto 0030,Moveis,1813.53
+PR0031,Produto 0031,Moveis,634.81
+PR0032,Produto 0032,Informatica,3148.63
+PR0033,Produto 0033,Eletronicos,2760.01
+PR0034,Produto 0034,Casa e Decoracao,583.91
+PR0035,Produto 0035,Beleza e Saude,251.69
+PR0036,Produto 0036,Eletronicos,3837.15
+PR0037,Produto 0037,Livros,103.22
+PR0038,Produto 0038,Livros,40.16
+PR0039,Produto 0039,Eletrodomesticos,678.23
+PR0040,Produto 0040,Esporte e Lazer,2405.89
+PR0041,Produto 0041,Informatica,4093.18
+PR0042,Produto 0042,Livros,180.93
+PR0043,Produto 0043,Esporte e Lazer,686.7
+PR0044,Produto 0044,Eletrodomesticos,4848.96
+PR0045,Produto 0045,Eletronicos,4705.69
+PR0046,Produto 0046,Beleza e Saude,577.76
+PR0047,Produto 0047,Moveis,1638.84
+PR0048,Produto 0048,Beleza e Saude,228.71
+PR0049,Produto 0049,Esporte e Lazer,268.09
+PR0050,Produto 0050,Livros,227.6
+PR0051,Produto 0051,Livros,124.83
+PR0052,Produto 0052,Informatica,950.52
+PR0053,Produto 0053,Eletrodomesticos,1599.19
+PR0054,Produto 0054,Moveis,2077.76
+PR0055,Produto 0055,Moveis,717.49
+PR0056,Produto 0056,Eletronicos,5161.19
+PR0057,Produto 0057,Casa e Decoracao,1142.61
+PR0058,Produto 0058,Informatica,3251.61
+PR0059,Produto 0059,Esporte e Lazer,1097.27
+PR0060,Produto 0060,Esporte e Lazer,1579.45
+PR0061,Produto 0061,Beleza e Saude,473.52
+PR0062,Produto 0062,Esporte e Lazer,1635.12
+PR0063,Produto 0063,Eletrodomesticos,513.78
+PR0064,Produto 0064,Beleza e Saude,341.41
+PR0065,Produto 0065,Moveis,260.66
+PR0066,Produto 0066,Eletrodomesticos,2520.56
+PR0067,Produto 0067,Beleza e Saude,273.94
+PR0068,Produto 0068,Eletrodomesticos,808.17
+PR0069,Produto 0069,Eletronicos,754.91
+PR0070,Produto 0070,Moveis,2106.24
+PR0071,Produto 0071,Livros,59.24
+PR0072,Produto 0072,Informatica,4166.78
+PR0073,Produto 0073,Moveis,2083.99
+PR0074,Produto 0074,Informatica,1593.57
+PR0075,Produto 0075,Esporte e Lazer,1489.56
+PR0076,Produto 0076,Moveis,197.08
+PR0077,Produto 0077,Eletrodomesticos,4796.94
+PR0078,Produto 0078,Informatica,2196.25
+PR0079,Produto 0079,Casa e Decoracao,1178.45
+PR0080,Produto 0080,Esporte e Lazer,234.34
+PR0081,Produto 0081,Beleza e Saude,397.03
+PR0082,Produto 0082,Moveis,1778.59
+PR0083,Produto 0083,Informatica,4223.33
+PR0084,Produto 0084,Livros,151.5
+PR0085,Produto 0085,Esporte e Lazer,1199.52
+PR0086,Produto 0086,Esporte e Lazer,689.43
+PR0087,Produto 0087,Eletronicos,2089.68
+PR0088,Produto 0088,Eletrodomesticos,2651.29
+PR0089,Produto 0089,Livros,120.95
+PR0090,Produto 0090,Livros,24.97
+PR0091,Produto 0091,Moveis,2912.87
+PR0092,Produto 0092,Livros,226.12
+PR0093,Produto 0093,Livros,52.26
+PR0094,Produto 0094,Moveis,1992.64
+PR0095,Produto 0095,Beleza e Saude,100.23
+PR0096,Produto 0096,Eletrodomesticos,3393.98
+PR0097,Produto 0097,Informatica,1301.49
+PR0098,Produto 0098,Esporte e Lazer,1658.77
+PR0099,Produto 0099,Esporte e Lazer,1825.68
+PR0100,Produto 0100,Informatica,3470.48
+PR0101,Produto 0101,Livros,44.78
+PR0102,Produto 0102,Informatica,4126.25
+PR0103,Produto 0103,Livros,72.95
+PR0104,Produto 0104,Eletronicos,368.86
+PR0105,Produto 0105,Livros,147.62
+PR0106,Produto 0106,Livros,105.31
+PR0107,Produto 0107,Livros,210.85
+PR0108,Produto 0108,Esporte e Lazer,2026.38
+PR0109,Produto 0109,Moveis,1191.93
+PR0110,Produto 0110,Esporte e Lazer,2383.66
+PR0111,Produto 0111,Eletrodomesticos,1525.5
+PR0112,Produto 0112,Livros,138.46
+PR0113,Produto 0113,Casa e Decoracao,398.83
+PR0114,Produto 0114,Moveis,3283.83
+PR0115,Produto 0115,Casa e Decoracao,263.62
+PR0116,Produto 0116,Casa e Decoracao,86.47
+PR0117,Produto 0117,Eletronicos,2695.32
+PR0118,Produto 0118,Informatica,4466.07
+PR0119,Produto 0119,Informatica,4017.96
+PR0120,Produto 0120,Eletronicos,4529.36
